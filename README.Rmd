@@ -20,3 +20,5 @@ Here is more text that will be added in my second commit
 Here is some final text for my third commit.
 
 ___Here is some text on the test branch.___
+
+___Here is some more text on the test branch.___
